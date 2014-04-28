@@ -49,5 +49,5 @@ Overall, Requirements Should:
   * Be unambiguous.
   * Be black-box testable.
   * Be easy to understand.
-  * Be written for any individual story as a core requirement rather than an implementation definition.
+  * Be written for any individual story as a desired behavior or goal rather than an implementation definition.
 
